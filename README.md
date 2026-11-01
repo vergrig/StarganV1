@@ -1,2 +1,2 @@
 # StarganV1
-An exercise to rewrite Stargan V1 and to train it on Celeba from scratch. 
+A rewrite of Stargan V1 trained on Celeba from scratch. 
